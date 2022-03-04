@@ -2,10 +2,11 @@
 
 ### Hi there 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :orange_book: Focusing on Deep Learning, Python and Embedded System Design.
+- 🔭 Currently working on AEA.
+- :hammer: Studying in UESTC.
+- 📫 Homepage: https://www.zerolite.cn
+- 🎮 Genshin Impact Player!
 
 <!--
 **JimHans/JimHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
