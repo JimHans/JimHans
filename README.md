@@ -1,6 +1,6 @@
 ### Hi there 你好！ 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JimHans&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JimHans&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000&hide_title=false" />
 
 - :orange_book: Focusing on Deep Learning, Python and Embedded System Design.
 - 🔭 Currently working on AEA.
@@ -8,6 +8,7 @@
 - 📫 Homepage: https://www.zerolite.cn
 - 🎮 Genshin Impact Player!
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimHans&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:182px;cursor:default" />|
 <!--
 **JimHans/JimHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
