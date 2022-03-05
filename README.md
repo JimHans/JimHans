@@ -1,6 +1,6 @@
 ## Hi there 你好！ 👋
 
-<div style="border-radius: 60px;"><img align="right" src="https://i2.hdslb.com/bfs/face/d4115a4efbeaf36516a7a22924ca3cf7aa0270dd.jpg" style="width:150px;height:150px;"/>
+<div style="border-radius: 60px;"><img align="right" src="https://i2.hdslb.com/bfs/face/d4115a4efbeaf36516a7a22924ca3cf7aa0270dd.jpg" style="width:150px;height:150px;"/></div>
 
 - :orange_book: Focusing on Deep Learning, Python and Embedded System Design.
 - 🔭 Currently working on AEA.
