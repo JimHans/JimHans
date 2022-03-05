@@ -1,5 +1,7 @@
 ## Hi there 你好！ 👋
 
+<img position="right" src="https://infinitypro-img.infinitynewtab.com/custom-icon/8001egkpen3om0wvgufe6bpx4ygzxp.png?imageMogr2/thumbnail/240x/format/webp/blur/1x0/quality/100|imageslim" />
+
 - :orange_book: Focusing on Deep Learning, Python and Embedded System Design.
 - 🔭 Currently working on AEA.
 - :hammer: Studying in UESTC.
