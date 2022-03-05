@@ -12,7 +12,7 @@
 
 |Community|Language|
 |---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=JimHans&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimHans&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:182px;cursor:default" />|
+|<img src="https://github-readme-stats.vercel.app/api?username=JimHans&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimHans&layout=compact&hide=html&theme=github_dark&langs_count=8&hide_title=false" style="height:182px;cursor:default" />|
 <!--
 **JimHans/JimHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
