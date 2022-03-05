@@ -1,4 +1,4 @@
-### Hi there 你好！ 👋
+## Hi there 你好！ 👋
 
 - :orange_book: Focusing on Deep Learning, Python and Embedded System Design.
 - 🔭 Currently working on AEA.
