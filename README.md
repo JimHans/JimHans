@@ -2,11 +2,12 @@
 
 <img align="right" src="https://i2.hdslb.com/bfs/face/d4115a4efbeaf36516a7a22924ca3cf7aa0270dd.jpg" style="width:150px;height:150px;border-radius: 60px;"/>
 
-- :orange_book: Focusing on Deep Learning, Python and Embedded System Design.
-- 🔭 Currently working on AEA.
+- :orange_book: Now focusing on Deep Learning, Python and Embedded System Design. Also learning other interesting Techs.
+- 🚀: Sometimes write some apps for fun with Electron or other frameworks.
+- 🔭 Currently working in AEA.
 - :hammer: Studying in UESTC.
 - 📫 Homepage: https://www.zerolite.cn
-- 🎮 Genshin Impact Player!
+- 🎮 A Genshin Impact Player!
 
 ## 📈 My Stats
 
