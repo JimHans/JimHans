@@ -5,7 +5,7 @@
 - :orange_book: Now I'm focusing on Deep Learning, Python and Embedded System Design. Also learning other interesting Techs.
 - 🚀: Sometimes I write some apps for fun with Electron or other frameworks.
 - 🔭 I'm currently working in AEA Group.Org, a tech club in UESTC.
-- :hammer: I;m now working to get my Bachelor's Degree in UESTC.
+- :hammer: I'm now working to get my Bachelor's Degree in UESTC.
 - 📫 My homepage is: https://www.zerolite.cn
 - 🎮 I'm also a Genshin Impact Player!
 
