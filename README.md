@@ -1,4 +1,4 @@
-## Hi there 你好！ 👋 I'm Jim Han.
+## Hi there 你好！ 👋 I'm Jim Han,A College Student In UESTC
 
 <img align="right" src="https://i2.hdslb.com/bfs/face/d4115a4efbeaf36516a7a22924ca3cf7aa0270dd.jpg" style="width:150px;height:150px;border-radius: 60px;"/>
 
