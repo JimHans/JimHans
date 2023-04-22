@@ -1,9 +1,9 @@
 ## Hi there 你好！ 👋 I'm Jim Han, a college student in UESTC.
 
-<img align="right" src="https://i2.hdslb.com/bfs/face/d4115a4efbeaf36516a7a22924ca3cf7aa0270dd.jpg" style="width:150px;height:150px;border-radius: 60px;"/>
+## <img align="right" src="https://i2.hdslb.com/bfs/face/d4115a4efbeaf36516a7a22924ca3cf7aa0270dd.jpg" style="width:150px;height:150px;border-radius: 60px;"/>
 
 - :orange_book: Now I'm focusing on Deep Learning, Python and Embedded System Design. Also learning other interesting Techs.
-- 🚀: Sometimes I write some apps for fun with Electron or other frameworks.
+- 🚀: Sometimes I write some apps for fun with Electron,Flask,Unity or other frameworks.
 - 🔭 I'm currently working in AEA Group.Org, a tech club in UESTC.
 - :hammer: I'm now working to get my Bachelor's Degree in UESTC.
 - 📫 My homepage is: https://www.zerolite.cn
