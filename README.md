@@ -11,7 +11,7 @@
 - 📫 My homepage is: https://www.zerolite.cn
 - 🎮 I'm also a Genshin Impact Player!
 
-## Tech Stack
+## 🗃 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
@@ -28,7 +28,7 @@
 |---|---|
 |<img src="https://github-readme-stats.vercel.app/api?username=JimHans&show_icons=true&theme=github_dark&hide_title=false" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimHans&layout=compact&hide=html&theme=github_dark&langs_count=8" style="height:195px;cursor:default" />|
 
-## Now Playing
+## ▶ Now Playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=160z9jghcuas8e8imjx9rvzqc&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=db6729&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=160z9jghcuas8e8imjx9rvzqc&redirect=true)
 <!--
 **JimHans/JimHans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
